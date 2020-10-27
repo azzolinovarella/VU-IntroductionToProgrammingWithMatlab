@@ -1,0 +1,14 @@
+%% Week 5
+%% First part
+out = picker(true,1,2)
+out = picker(false,1,2)
+%% Second part
+admit = eligible(96,89)
+admit = eligible(88,99)
+admit = eligible(92,91)
+%% Third part 
+too_young = under_age(18,18)
+too_young = under_age(20)
+%% Fourth part
+valid = valid_date(2018,4,1)
+valid = valid_date(2018,4,31)
