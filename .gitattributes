@@ -1,3 +1,2 @@
-* .html linguist-detectable=false
-* .m linguist-detectable=true
-* .txt linguist-detectable=true
+# direct MATLAB
+* .* linguist-language=MATLAB
